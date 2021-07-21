@@ -17,8 +17,8 @@ body{
     border: 3px solid rgb(88, 135, 146);
 }
  .container{
-     width: 600px;
-     height: 600px;
+     width: 500px;
+     height: 500px;
      display: grid;
      z-index: 100;
  }
