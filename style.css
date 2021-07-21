@@ -1,7 +1,4 @@
-html{
-    border: 3px solid rgb(88, 135, 146);
-    margin:3px
-}
+
 body{
     background-color: black;
     color: white;
@@ -16,11 +13,12 @@ body{
     align-items: center;
     flex-direction: column;
     width: 100%;
-    height: 100vh;
+    height: 100%;
+    border: 3px solid rgb(88, 135, 146);
 }
  .container{
-     width: 400px;
-     height: 400px;
+     width: 600px;
+     height: 600px;
      display: grid;
      z-index: 100;
  }
@@ -52,13 +50,4 @@ body{
     }
   }
 
-@media (max-width: 1024px) {
-  
-    .container {
-        width: 500px;
-        height: 500px;
-        display: grid;
-        z-index: 100;
-    }
-  }
 
