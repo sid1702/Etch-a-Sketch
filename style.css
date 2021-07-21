@@ -1,8 +1,10 @@
-
+html{
+    border: 3px solid rgb(88, 135, 146);
+    margin:3px
+}
 body{
     background-color: black;
     color: white;
-    border: 3px solid rgb(88, 135, 146);
 }
 
 .container{
