@@ -53,8 +53,8 @@ body{
 @media (max-width: 1024px) {
   
     .container {
-        width: 600px;
-        height: 600px;
+        width: 500px;
+        height: 500px;
         display: grid;
         z-index: 100;
     }
